@@ -16,7 +16,6 @@
 
 * 支持自定义最大附件大小（单位为MB）
 
-
 ## 使用
 
 该脚本基于`Python 3.8`进行开发，并且依赖于`Pillow`。
@@ -25,11 +24,10 @@
 - `pip install iMail` or
 - `python install iMail-*-py3-none-any.whl`
 
-## 使用 
+## 使用
 
 [项目]()中提供了一个简单的示例文件`demo.py`，用户可以仿照它进行配置
 
-## 许可 
+## 许可
 
 该脚本由[MIT](./LICENSE)许可证保护，允许自由使用和分发。
-
