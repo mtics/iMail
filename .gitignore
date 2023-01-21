@@ -3,3 +3,4 @@ test.py
 *.pyc
 dist/*
 build/*
+iMail.egg-info/*
