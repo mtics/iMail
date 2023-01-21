@@ -1,6 +1,6 @@
 # 邮件通知脚本
 
-[EN](./README.md)
+[EN](https://github.com/mtics/iMail/README.md)
 
 ## 概述
 

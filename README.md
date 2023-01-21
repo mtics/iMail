@@ -1,6 +1,6 @@
 # iMail
 
-[CN](./README-cn.md)
+[CN](https://github.com/mtics/iMail/README-cn.md)
 
 ## Overview
 
