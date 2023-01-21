@@ -21,7 +21,7 @@
 该脚本基于`Python 3.8`进行开发，并且依赖于`Pillow`。
 
 请使用下列命令安装`iMail`：
-- `pip install iMail` or
+- `pip install iMail` 或者
 - `python install iMail-*-py3-none-any.whl`
 
 ## 使用
