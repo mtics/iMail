@@ -1,3 +1,22 @@
+Metadata-Version: 2.1
+Name: iMail
+Version: 1.0.0
+Summary: iMail is a simple and useful email notification script.
+Home-page: https://github.com/mtics
+Author: Zhiwei Li
+Author-email: lizhw.cs@outlook.com
+License: BSD License
+Platform: all
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Communications :: Email
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # iMail
 
 [CN](./README-cn.md)

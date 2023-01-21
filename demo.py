@@ -1,9 +1,9 @@
-import mail
+import iMail
 
 if __name__ == '__main__':
 
     # Create an email object
-    mail_obj = mail.EMAIL(host='EMAIL_SERVER', sender_addr='SENDER_ADDRESS', pwd='PASSWORD', sender_name='SENDER')
+    mail_obj = iMail.EMAIL(host='EMAIL_SERVER', sender_addr='SENDER_ADDRESS', pwd='PASSWORD', sender_name='SENDER')
 
     # Set the receiver list
     mail_obj.set_receiver('RECEIVER_ADDRESS')

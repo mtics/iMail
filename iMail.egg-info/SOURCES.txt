@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+iMail/__init__.py
+iMail/iMail.py
+iMail/utils.py
+iMail.egg-info/PKG-INFO
+iMail.egg-info/SOURCES.txt
+iMail.egg-info/dependency_links.txt
+iMail.egg-info/requires.txt
+iMail.egg-info/top_level.txt
