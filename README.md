@@ -16,7 +16,7 @@ This project builds a simple and useful email notification script based on `Pyth
 
 * Support customizes the maximum attachment size (in MB)
 
-## Usage 
+## Usage
 
 The script is developed based on `Python 3.8`.
 
@@ -30,6 +30,6 @@ The script is developed based on `Python 3.8`.
 
 A simple example file ``demo.py`` is provided in the project, which the user can emulate for configuration
 
-## Licensing
+## License
 
 The script is protected by the [MIT](./LICENSE) license, which allows free use and distribution.
