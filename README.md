@@ -12,7 +12,7 @@ This project builds a simple and useful email notification script based on `Pyth
 
 * Specifying message content, supporting multiple formats, such as text, HTML, etc.
 
-* Support users to add images and attachments (attachments will be sent in packaged form).
+* Support users to add images and attachments (attachments will be sent in a compressed package).
 
 * Support customizes the maximum attachment size (in MB)
 
