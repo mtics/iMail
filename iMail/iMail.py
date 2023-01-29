@@ -88,7 +88,11 @@ class EMAIL(object):
         self.msg['To'] = to_list
 
     def add_text(self, content='', subtype='plain', encoding='utf-8'):
-        self.msg.attach(MIMEText(content, subtype, encoding))
+
+        text = MIMEText(content, subtype, encoding)
+
+
+        self.msg.attach(text)
 
     def attach_images(self, images, compressed=True, quality=75):
 

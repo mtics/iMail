@@ -1,1 +1,0 @@
-from iMail.iMail import *
